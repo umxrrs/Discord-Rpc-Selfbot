@@ -1,6 +1,6 @@
 # ✟ UMXRRS SELFBOT
 # FAST SELFBOT.! ⚡
-# umxrrs_ on Instagram
+# umxrrs_ on Instagram to ask me out for help, follow me and hit my dms 📩
 
 A sleek, terminal-styled **Discord selfbot** written in **Node.js**, featuring advanced **RPC (Rich Presence)** and powerful message utilities.
 
